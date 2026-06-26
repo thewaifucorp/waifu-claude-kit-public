@@ -1,0 +1,14 @@
+{
+  "name": "waifu-claude-kit-public",
+  "owner": { "name": "WaifuCorp" },
+  "metadata": {
+    "description": "Skills públicas/compartilhadas da WaifuCorp (padrões de código por linguagem). Sem skills de pod/consultoria — essas vivem no marketplace privado."
+  },
+  "plugins": [
+    {
+      "name": "waifu-standards",
+      "source": "./plugins/waifu-standards",
+      "description": "Padrões de código compartilhados (Python e geral). Aplicar ao escrever/revisar código."
+    }
+  ]
+}
