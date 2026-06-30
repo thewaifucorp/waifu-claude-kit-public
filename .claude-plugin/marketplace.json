@@ -8,7 +8,7 @@
     {
       "name": "waifu-standards",
       "source": "./plugins/waifu-standards",
-      "description": "Padrões de código compartilhados (Python + TypeScript/Next). Aplicar ao escrever/revisar código."
+      "description": "Padrões de código compartilhados (Python + TypeScript/Next + Rust). Aplicar ao escrever/revisar código."
     }
   ]
 }
