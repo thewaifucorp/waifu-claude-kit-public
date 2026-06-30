@@ -1,5 +1,5 @@
 {
   "name": "waifu-standards",
-  "version": "0.1.0",
-  "description": "Padrões de código compartilhados da WaifuCorp (shared, qualquer pod e OSS)."
+  "version": "0.2.0",
+  "description": "Padrões de código compartilhados da WaifuCorp — Python (code-standards) + TypeScript/Next (ts-standards). Shared, qualquer pod e OSS."
 }
